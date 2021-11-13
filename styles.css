@@ -1,0 +1,39 @@
+body{
+    font-family: raleway;
+    text-align:  center;
+}
+
+h3{
+    text-align: start;
+    padding-left: 1em;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+
+button{ 
+    padding:1em;
+    margin: 1em;
+    color: black;
+    font-size: large;
+    border-radius: 20px;
+    
+}
+
+input{
+    font-size: large;
+    width: 40%;
+    padding: 1em;
+    margin: 0 auto;
+    margin-bottom: 1em;
+}
+
+footer{
+    margin-top: 15em;
+}
+
